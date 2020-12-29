@@ -13,9 +13,9 @@ body {
 
 .top_menu {
   /*Campo com o imagens Ari e Logo */
-  width: 120%;
+  width: 100%;
   padding: 16px 0 60px;
- /* border-bottom: 1px solid #efefef;*/
+ border-bottom: 1px solid #efefef;
 }
 
 .top_menu .assistente {
@@ -63,7 +63,7 @@ div {
   display: block;
   position: absolute;
   width: 100%;
-  bottom: 117px;
+  bottom: 100px;
   border-bottom: 1px solid #efefef;
 }
 
@@ -242,7 +242,7 @@ div {
   color: #eeeeee;
   letter-spacing: 0.015rem;
   line-height: 2.555rem;
-  background: #2980b9;
+  background: #658EA9;
   border-radius: 1.25rem 1.25rem 0 1.25rem;
   text-align: left;
   display: block;
