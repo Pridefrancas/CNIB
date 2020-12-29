@@ -31,9 +31,9 @@ body {
   position: absolute;
   width: 100%;
   height: 100px;
-  top: 2px;
+  top: -2px;
   bottom: 0px;
-  left: 19px;
+  left: 50px;
 }
 
 .top_menu .logo {
@@ -45,7 +45,7 @@ body {
 }
 
 .ari {
-  background-image: url("../img/ari100.png");
+  background-image: url("../img/ari100.jpeg");
   background-repeat: no-repeat;
 }
 
